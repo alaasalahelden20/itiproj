@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itiproj/static/css/main.64e535d0.css",
+    "main.js": "/itiproj/static/js/main.6e5761a7.js",
+    "index.html": "/itiproj/index.html",
+    "main.64e535d0.css.map": "/itiproj/static/css/main.64e535d0.css.map",
+    "main.6e5761a7.js.map": "/itiproj/static/js/main.6e5761a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e535d0.css",
+    "static/js/main.6e5761a7.js"
+  ]
+}
